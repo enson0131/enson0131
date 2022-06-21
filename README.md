@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working in [MeiTuan](https://waimai.meituan.com/) as a Frontend develop trainee~
 -->
+
+👨‍💻 Working hard to be an excellent Frontend Developer~
+
+🏠 [CSDN](https://blog.csdn.net/chen_enson_1) • [JueJin](https://juejin.cn/user/3544481218435549/posts) • [LeetCode](https://leetcode.cn/u/dou-jiang-you-tiao-f/)
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=enson0131&show_icons=true&theme=radical)
