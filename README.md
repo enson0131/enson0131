@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working in [Faisco](https://www.fkw.com/) as a Front-end development engineer~
+🔭 I’m currently working in [CVTE](https://www.cvte.com/) as a Front-end development engineer~
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
