@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
-🏠 [CSDN](https://blog.csdn.net/chen_enson_1) • [JueJin](https://juejin.cn/user/3544481218435549/posts) • [LeetCode](https://leetcode.cn/u/dou-jiang-you-tiao-f/) • [Gitee](https://gitee.com/enson_chen)
+🏠 [JueJin](https://juejin.cn/user/3544481218435549/posts) • [LeetCode](https://leetcode.cn/u/dou-jiang-you-tiao-f/) • [My Blog](https://enson0131.github.io/vitePress-blob/)
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=enson0131&show_icons=true&theme=radical)
