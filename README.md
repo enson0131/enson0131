@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working in [CVTE](https://www.cvte.com/) as a Front-end development engineer~
-
 👨‍💻 Working hard to be an excellent Frontend Developer~
 
 🏠 [JueJin](https://juejin.cn/user/3544481218435549/posts) • [LeetCode](https://leetcode.cn/u/dou-jiang-you-tiao-f/) • [My Blog](https://enson0131.github.io/vitePress-blob/)
