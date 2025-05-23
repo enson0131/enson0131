@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 [vscode 插件](https://github.com/enson0131/transform-css-logic) 一款可以将 css 属性转化为逻辑属性的 Vscode 插件
 
+[langchain 相关的学习](https://github.com/enson0131/langchain) langchain 相关的学习
+
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=enson0131&show_icons=true&theme=radical)
 
 正在做的事情
