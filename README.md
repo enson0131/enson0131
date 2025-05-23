@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
-[前端知识总结](https://enson0131.github.io/vitePress-blob/)) 知识总结，踩坑记录，最佳实践，八股文应有尽有
+[前端知识总结](https://enson0131.github.io/vitePress-blob/) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
 [mini-webpack](https://github.com/enson0131/mini-webpack) mini-webpack 手写 webpack 源码，以及webpack常见loader，plugin源码
 
