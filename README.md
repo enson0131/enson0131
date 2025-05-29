@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 [mini-白板](https://github.com/enson0131/mini-fabric-whiteboard) 实现一个 mini-fabric，并使用 fabric 实现无限白板
 
+[mini-react](https://github.com/enson0131/mini-react) 实现一个 mini-react
+
 [mini-vue](https://github.com/enson0131/MVVM-Vue-theory) 分析 Vue 双向数据绑定原理以及实现 mini-vue
 
 [前端监控](https://github.com/enson0131/clue-report) 实现一个异常监控 SDK
