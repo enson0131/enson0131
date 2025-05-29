@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 🏠 [JueJin](https://juejin.cn/user/3544481218435549/posts) • [LeetCode](https://leetcode.cn/u/dou-jiang-you-tiao-f/) • [My Blog](https://enson0131.github.io/vitePress-blob/)
 
+🏷️ 人的一生或许会经历许多痛苦，但回头想想都是传奇
+
 时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
 [前端知识总结](https://enson0131.github.io/vitePress-blob/) 知识总结，踩坑记录，最佳实践，八股文应有尽有
