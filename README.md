@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=enson0131&show_icons=true&theme=radical)
 
 正在做的事情
-- low-code
 - AI
 - Electron
 - WebGL
