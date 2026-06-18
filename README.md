@@ -25,17 +25,19 @@ Here are some ideas to get you started:
 
 [前端知识总结](https://enson0131.github.io/vitePress-blob/) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
-[mini-webpack](https://github.com/enson0131/mini-webpack) mini-webpack 手写 webpack 源码，以及webpack常见loader，plugin源码
-
-[mini-babel](https://github.com/enson0131/mini-babel) mini-babel 从 0 到 1 实现 babel
-
-[组件库 & hooks](https://github.com/enson0131/SoyaMilk-design) 使用 dumi 实现一个组件库以及常见的 hooks 实现
+[mini-claude-design](https://github.com/enson0131/mini-claude-design) 实现一个简易版的 mini claude design
 
 [mini-白板](https://github.com/enson0131/mini-fabric-whiteboard) 实现一个 mini-fabric，并使用 fabric 实现无限白板
 
 [mini-react](https://github.com/enson0131/mini-react) 实现一个 mini-react
 
 [mini-vue](https://github.com/enson0131/MVVM-Vue-theory) 分析 Vue 双向数据绑定原理以及实现 mini-vue
+
+[mini-webpack](https://github.com/enson0131/mini-webpack) mini-webpack 手写 webpack 源码，以及webpack常见loader，plugin源码
+
+[mini-babel](https://github.com/enson0131/mini-babel) mini-babel 从 0 到 1 实现 babel
+
+[组件库 & hooks](https://github.com/enson0131/SoyaMilk-design) 使用 dumi 实现一个组件库以及常见的 hooks 实现
 
 [前端监控](https://github.com/enson0131/clue-report) 实现一个异常监控 SDK
 
